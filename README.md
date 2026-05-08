@@ -93,22 +93,6 @@ SQL was used to answer several business-style questions, including:
 - Whether repeat buyers were likely to subscribe
 - Revenue contribution by age group
 
-## SQL Analysis
-
-The SQL analysis helped identify patterns in customer behavior and spending.
-
-Some of the main queries included:
-
-- Revenue by gender
-- High-spending discount users
-- Top-rated products
-- Shipping type comparison
-- Subscriber vs. non-subscriber spending
-- Discount-dependent products
-- Customer segmentation
-- Top products by category
-- Repeat buyer subscription behavior
-- Revenue by age group
 
 ## Dashboard
 
