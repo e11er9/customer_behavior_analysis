@@ -112,6 +112,11 @@ The dashboard includes:
 
 ![Customer Behavior Dashboard](customer_behavior_dash_image.png)
 
+### 7. Created a Findings and Recommendations Report
+
+A final PDF report was created to summarize the main SQL findings and business recommendations. The report explains the most important patterns found in the analysis, including revenue by gender, discount behavior, product ratings, subscription patterns, customer loyalty, and age group revenue.
+
+
 
 ## Files in This Repository
 
@@ -122,5 +127,6 @@ clean_customer_data.csv
 customer_behavior_queries.sql
 customer_behavior_dashboard.pbix
 customer_behavior_dash_image.png
+Customer Behavior Findings and Recommendations.pdf
 README.md
 .gitignore
